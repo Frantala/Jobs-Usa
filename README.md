@@ -1,2 +1,2 @@
-# Analisis-de-Base-de-datos
-Analisis de la base de datos Northwind con Pandas y matplotlib, aplicando varias funcionalidades con pandas 
+# Analisis de Netflix Dataset
+Analisis de la base de un dataset de Netflix, con Python, Matplotlib y seaborn
